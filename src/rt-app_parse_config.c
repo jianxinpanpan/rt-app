@@ -21,6 +21,9 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 /* for CPU_SET macro */
 #define _GNU_SOURCE
+#define FALSE  0
+#define TRUE  1
+
 
 #include <stdio.h>
 #include <string.h>
