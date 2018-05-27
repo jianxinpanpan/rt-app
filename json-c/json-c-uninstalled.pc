@@ -1,0 +1,11 @@
+prefix=
+exec_prefix=
+libdir=/home/pan/working_pan/git_pan_a/no_repo/rt-app/json-c
+includedir=/home/pan/working_pan/git_pan_a/no_repo/rt-app/json-c
+
+Name: json
+Description: JSON implementation in C
+Version: 0.13.99
+Requires:
+Libs:  -L/home/pan/working_pan/git_pan_a/no_repo/rt-app/json-c -ljson-c
+Cflags: -I/home/pan/working_pan/git_pan_a/no_repo/rt-app/json-c
